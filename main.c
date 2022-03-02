@@ -1,6 +1,6 @@
 /*
 COUNTY LIBRARY MANAGEMENT SYSTEM
-By patrick mwania
+By Mugendi Ireri
 Feb 2022
 MIT license
 C89 Compiler
@@ -25,7 +25,7 @@ int Menu()
 int main(){
 
     printf("COUNTY LIBRARY STSTEM\n");
-    printf("welcome  Mr.patrick\n");
+    printf("welcome  Mr.mugendik\n");
     printf("you selected action %d",Menu());
 
     return 0;
